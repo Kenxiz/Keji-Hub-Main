@@ -12,7 +12,7 @@ end
 function CheckKey()
 	if sf_key == KeyInput then
 		Destroy()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/SoMrshIsCool/Keji-Hub---Version-1/main/MainLogic.lua",true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenxiz/Keji-Hub-Main/main/MainLogic.lua",true))()
 	end
 end
 
